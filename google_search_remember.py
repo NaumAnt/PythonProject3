@@ -1,5 +1,5 @@
 from selene import browser, be, have
 
 
-def test_google_search():
+def test_googl_search():
     browser.open("https://www.google.com")
