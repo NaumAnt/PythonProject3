@@ -1,2 +1,3 @@
 selenium==4.46.0
 selene==2.0.0rc10
+pytest==7.4.0
